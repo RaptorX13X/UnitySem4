@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 657ec9e8a3de9b8438915911daaf92bb, type: 3}
   m_Name: Swag
   m_EditorClassIdentifier: 
-  movieName: 
-  price: 0
-  quantity: 0
-  producerTax: 0
+  movieName: Swag
+  price: 20
+  quantity: 10
+  producerTax: 0.1
   forChildren: 0
